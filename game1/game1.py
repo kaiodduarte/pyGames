@@ -1,4 +1,5 @@
 # GAME 1 :: exemplo basico
+#teste
 # tutorial de python: http://www.tutorialspoint.com/python/
 
 import sys, pygame
